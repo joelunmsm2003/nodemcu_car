@@ -1,6 +1,6 @@
 # WifiCar
 
-Motor controlado por wifi atravez del modulo nodemcu
+Wi-Fi controlled car through the nodemcu module
 
 
 
